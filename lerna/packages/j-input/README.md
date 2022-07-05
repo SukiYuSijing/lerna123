@@ -1,11 +1,11 @@
-# `@mo-demo/cli`
+# `j-input`
 
 > TODO: description
 
 ## Usage
 
 ```
-const cli = require('@mo-demo/cli');
+const jInput = require('j-input');
 
 // TODO: DEMONSTRATE API
 ```
